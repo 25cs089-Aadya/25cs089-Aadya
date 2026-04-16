@@ -23,12 +23,7 @@
 
 ---
 
-### 🧩 Projects  
-- 🌐 **Portfolio Website** — Personal site using HTML, CSS, JS  
-- 🧠 **AI Chatbot** — Built in Python using NLP basics  
-- 🗂️ **Student Management System** — CRUD app using Python + SQLite  
 
----
 
 ### 📈 GitHub Stats  
 <p align="center">
