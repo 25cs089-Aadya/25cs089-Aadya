@@ -10,11 +10,21 @@
 
 ## 👋 About Me
 
-- 🎓 Computer Science & Engineering student at **CHARUSAT**
-- 💻 Interested in **software development, web technologies & AI/ML**
-- 🛠️ I like building things and learning through projects
-- 🚀 Currently working on projects across **web development, Java & programming**
+## ✦ About Me
 
+🎓 Studying Computer Science at **CHARUSAT**
+
+💻 I like building things more than talking about building things.
+
+🧩 Currently jumping between web development, Java, Python and whatever
+interesting problem happens to land in front of me.
+
+🤖 Exploring **AI/ML** because apparently one field of CS wasn't enough.
+
+🐛 My usual development cycle: **build → break → Google → fix → repeat.**
+
+🚀 Most of my projects start with a random idea and a *"let's see if I
+can actually make this"*.
 ---
 
 ## 🧰 Tech Stack
