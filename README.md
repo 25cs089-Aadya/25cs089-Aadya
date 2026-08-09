@@ -2,13 +2,13 @@
 
 <div align="center">
 
-# <span style="font-size: 48px;">Hey there, I'm Aadya :)</span>
+# <span style="font-size: 60px;">Hey there, I'm Aadya :)</span>
 
-### <span style="font-size: 26px;">Computer Science BTech Student</span>
+## <span style="font-size: 36px;">BTech Computer Science Student </span>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=C8A2C8&center=true&vCenter=true&width=800&lines=I+build+things+I+probably+shouldn't+be+building.;I+break+things+just+to+understand+them.;Exploring+AI%2FML+one+project+at+a+time.;Code.+Learn.+Build.+Repeat.+" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=C8A2C8&center=true&vCenter=true&width=1000&lines=I+build+things+I+probably+shouldn't+be+building.;I+break+things+just+to+understand+them.;Exploring+AI%2FML+one+project+at+a+time.;Code.+Learn.+Build.+Repeat.+" alt="Typing Animation"/>
 
 </div>
 
