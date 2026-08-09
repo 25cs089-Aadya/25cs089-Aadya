@@ -1,8 +1,15 @@
 <div align="center">
 
-# Hey there, I'm Aadya :)
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8CFF,100:00D4FF&height=170&section=header&text=Aadya&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+%40+CHARUSAT;I+like+building+things+and+figuring+out+how+they+work;Currently+exploring+AI%2FML;build+%E2%86%92+break+%E2%86%92+debug+%E2%86%92+repeat">
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Computer+Science+%26+Engineering+%40+CHARUSAT;Building+things+I+probably+shouldn't+be+building;Turning+ideas+into+code;Currently+exploring+AI%2FML;Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Repeat"/>
+
+<br>
+
+<!-- ANIMATED WAVING HAND -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 </div>
 
@@ -12,42 +19,43 @@
 
 🧩 I like understanding how things work — and then trying to build my own version of them.
 
-💻 My usual development cycle: **build → break → Google → fix → repeat.**
+💻 My usual development cycle:
 
-🤖 Exploring **AI/ML**, because apparently one field of Computer Science wasn't enough.
+**build → break → Google → fix → repeat**
 
-🚀 Most of my projects start with a random idea and a  
-**"let's see if I can actually make this."**
+🤖 Exploring **AI/ML**, because apparently one area of Computer Science wasn't enough.
+
+🚀 Most of my projects start with a random idea and a:
+
+> *"let's see if I can actually make this."*
 
 ---
 
-## 🧰 Tech Stack
-
 <div align="center">
+
+## 🧰 Tech Stack
 
 ### Languages
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+
+<br><br>
 
 ### Web
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
 
 ### Tools
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 ## 🚀 Projects
 
@@ -58,9 +66,7 @@
 
 ### 🎓 Student Portal
 
-A web-based student portal designed to bring
-academic and administrative features together
-in one place.
+A web-based student portal bringing academic and administrative features together in one place.
 
 **HTML • CSS • JavaScript**
 
@@ -70,9 +76,7 @@ in one place.
 
 ### 🔍 Error Checker
 
-A previous-semester project focused on
-**identifying errors and providing feedback**
-during the checking process.
+A previous-semester project focused on identifying errors and providing useful feedback during the checking process.
 
 **Academic Project**
 
@@ -86,9 +90,7 @@ during the checking process.
 
 ### 🏦 MiniBank
 
-A Java-based banking application being built
-to practice **Object-Oriented Programming**
-and core Java concepts.
+A Java-based banking application being developed to practice **Object-Oriented Programming** and core Java concepts.
 
 **Java • OOP**
 
@@ -98,8 +100,7 @@ and core Java concepts.
 
 ### ✦ More Coming Soon
 
-More projects, experiments and questionable
-coding decisions are on the way.
+More projects, experiments and questionable coding decisions are on the way.
 
 </td>
 
@@ -108,11 +109,13 @@ coding decisions are on the way.
 
 ---
 
-## 📊 GitHub
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
+## 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 
@@ -120,15 +123,21 @@ coding decisions are on the way.
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F8CFF,100:00D4FF&height=100&section=footer&animation=twinkling"/>
+
+</div>
 
 <div align="center">
 
