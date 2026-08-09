@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Aadya
+#  Hey there , I'm Aadya :)
 
 ### 💻 Computer Science Student • Developer • AI/ML Explorer
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=58A6FF&style=flat-square" />
+
 
 </div>
 
