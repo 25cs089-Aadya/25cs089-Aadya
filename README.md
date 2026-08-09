@@ -1,61 +1,15 @@
-## Hi there 👋
-<h1 align="center">Hey there 👋, I'm Aadya</h1>
-<h3 align="center">🚀 B.Tech | Computer Science & Engineering Student</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=550&lines=💻+Code.+Learn.+Build.+Repeat.;🎯+Always+learning+new+technologies.;🤝+Open+to+collaboration+and+innovation.">
-</p>
-
----
-
-### 🧠 About Me  
-- 💡 Passionate about **software development & problem-solving**  
-- 🌱 Currently exploring **[Web Dev ]**  
-- 🛠️ Love writing clean, efficient, and elegant code  
-- 🎯 Goal: Build tech that makes a difference  
-
----
-
-### ⚙️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,github,vscode,mysql" />
-</p>
-
----
+# 💫 About Me:
+🧩 I like understanding how things work — and then trying to build my own version of them.<br><br>💻 My usual development cycle:<br><br>**build → break → Google → fix → repeat**<br><br>🤖 Exploring **AI/ML**, because apparently one area of Computer Science wasn't enough.<br><br>🚀 Most of my projects start with a random idea and a:<br><br>> *"let's see if I can actually make this."*
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aadya Raval) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravalaadya@gmail.com) 
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aadya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aadya&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aadya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-### 📫 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<h3 align="center">✨ "Keep coding, keep growing." ✨</h3>
-
-
-<!--
-**25cs089-Aadya/25cs089-Aadya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
