@@ -1,94 +1,118 @@
 <div align="center">
 
-# Hey there, I'm Aadya :)
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+%40+CHARUSAT;Building+things+%26+figuring+them+out;Currently+exploring+AI%2FML;Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Repeat">
+# Aadya Raval
+
+### `computer science · building things · figuring things out`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3200&pause=1000&color=8B949E&center=true&vCenter=true&width=650&height=35&lines=CS+%40+CHARUSAT;currently+exploring+AI%2FML;usually+somewhere+between+an+idea+and+a+debugger" />
+
+<br>
 
 </div>
 
 ---
-
-## ✦ About Me
 
 <div align="center">
 
-<img align="right" width="230" src="https://media.giphy.com/media/qgQUggACf2A9g/giphy.gif">
+### `01` &nbsp; ABOUT
 
 </div>
 
-🧩 I like understanding how things work — and then trying to build my own
-version of them.
+<br>
 
-💻 My usual development cycle:
+I’m a Computer Science & Engineering student at **CHARUSAT** who likes
+learning by actually making things.
 
-**build → break → Google → fix → repeat**
+I’m interested in the part of programming where an idea goes from
+*"this could be cool"* → **something that actually runs**.
 
-🤖 Exploring **AI/ML**, because apparently one field of Computer Science
-wasn't enough.
+Right now, I'm exploring **AI/ML** and building my foundations through
+different areas of computer science and development.
 
-🚀 Most of my projects start with a random idea and a  
-**"let's see if I can actually make this."**
-
-<br clear="right"/>
-
----
-
-## 🧰 Tech Stack
+<br>
 
 <div align="center">
 
-### Languages
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br><br>
-
-### Web
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<br><br>
-
-### Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+`build` &nbsp;→&nbsp; `break` &nbsp;→&nbsp; `debug` &nbsp;→&nbsp; `figure it out` &nbsp;→&nbsp; `build again`
 
 </div>
 
+<br>
+
 ---
 
-## 🚀 Projects
+<div align="center">
 
-<table>
+### `02` &nbsp; TOOLBOX
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,git,github,vscode&perline=6" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`C` &nbsp; `C++` &nbsp; `Java` &nbsp; `Python`
+
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `MySQL`
+
+`Git` &nbsp; `GitHub` &nbsp; `VS Code`
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### `03` &nbsp; THINGS I'VE BUILT
+
+</div>
+
+<br>
+
+<table align="center" width="90%">
 <tr>
 
 <td width="50%" valign="top">
 
-### 🎓 Student Portal
+## 🎓 Student Portal
 
 A web-based student portal bringing academic and administrative
-features together in one place.
+features into one place.
+
+<br>
 
 `HTML` `CSS` `JavaScript`
+
+<br><br>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔍 Error Checker
+## 🔍 Error Checker
 
-A previous-semester project focused on **detecting errors and
-providing feedback** during the checking process.
+A previous-semester project built around identifying errors
+and presenting useful feedback during the checking process.
+
+<br>
 
 `Academic Project`
+
+<br><br>
 
 </td>
 
@@ -98,62 +122,103 @@ providing feedback** during the checking process.
 
 <td width="50%" valign="top">
 
-### 🏦 MiniBank
+## 🏦 MiniBank
 
-A Java-based banking application being developed to practice
-**Object-Oriented Programming** and core Java concepts.
+A Java banking application built to practice **OOP**, program
+structure, and core Java concepts.
+
+<br>
 
 `Java` `OOP`
+
+<br><br>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✦ More Coming Soon
+## ✦ Next up
 
-More projects and experiments are on the way.
+More projects are in the making.
 
-`Work in Progress`
+The plan is simple: build more, experiment more,
+and eventually stop calling everything a "mini project."
+
+<br>
+
+`work in progress`
+
+<br><br>
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-## 📊 GitHub Activity
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
+### `04` &nbsp; GITHUB
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github&include_all_commits=true" height="165"/>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" height="165"/>
 
 </div>
 
----
+<br>
 
-## 🐍 Contribution Activity
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="700"/>
+### `05` &nbsp; A LITTLE MOVEMENT
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=1800&pause=500&color=6E7681&center=true&vCenter=true&width=500&height=30&lines=%24+git+status;%24+still+building...;%24+git+status;%24+probably+another+bug" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="80%"/>
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
+
+### LET'S CONNECT
+
+<br>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=58A6FF"/>
 </a>
+
+&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<br><br>
+
+`made with curiosity + questionable amounts of debugging`
 
 </div>
