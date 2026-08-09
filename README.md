@@ -19,22 +19,21 @@
 
 # 💫 About Me
 
-<div align="right">
+<div align="left">
 
-<p>🧩 I like understanding how things work — and then trying to build my own version of them.</p>
+<h3>🧩 I like understanding how things work — and then trying to build my own version of them.</h3>
 
-<p>💻 My usual development cycle:</p>
+<h3>💻 My usual development cycle:</h3>
 
-<p><code>build → break → Google → fix → repeat</code></p>
+<h3><code>build → break → Google → fix → repeat</code></h3>
 
-<p>🤖 Exploring AI/ML, because apparently one area of Computer Science wasn’t enough.</p>
+<h3>🤖 Exploring AI/ML, because apparently one area of Computer Science wasn’t enough.</h3>
 
-<p>🚀 Most of my projects start with a random idea and a:</p>
+<h3>🚀 Most of my projects start with a random idea and a:</h3>
 
-<blockquote>“let’s see if I can actually make this.”</blockquote>
+<h3>“let’s see if I can actually make this.”</h3>
 
 </div>
-
 
 # 📊 GitHub Stats
 
