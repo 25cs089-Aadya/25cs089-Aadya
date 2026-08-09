@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aadya ✨
+# Hey there, I'm Aadya ✨
 
 ### Computer Science & Engineering @ CHARUSAT
 
@@ -86,7 +86,7 @@ A Java-based banking application focused on **Object-Oriented Programming** and 
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="YOUR_EMAIL">
+<a href="ravalaadya@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
