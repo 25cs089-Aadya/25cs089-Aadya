@@ -24,22 +24,6 @@
 
 💻 I learn best by actually making things, breaking them, figuring out why they broke, and fixing them.
 
-```text
-idea
- ↓
-build
- ↓
-break
- ↓
-Google
- ↓
-debug
- ↓
-"wait... why does this work?"
- ↓
-fix
- ↓
-repeat
 
 # 📊 GitHub Stats
 
