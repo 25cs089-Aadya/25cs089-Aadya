@@ -1,10 +1,8 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hey%20there%2C%20I'm%20Aadya%20%3A)&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:7F7FD5,50:86A8E7,100:91EAE4"/>
+# Hey there, I'm Aadya :)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+%40+CHARUSAT;Building+things+%7C+Breaking+things+%7C+Fixing+things;Exploring+AI%2FML;Turning+random+ideas+into+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+%40+CHARUSAT;I+like+building+things+and+figuring+out+how+they+work;Currently+exploring+AI%2FML;build+%E2%86%92+break+%E2%86%92+debug+%E2%86%92+repeat">
 
 </div>
 
@@ -14,12 +12,12 @@
 
 🧩 I like understanding how things work — and then trying to build my own version of them.
 
-💻 My usual development cycle is pretty simple: **build → break → Google → fix → repeat.**
+💻 My usual development cycle: **build → break → Google → fix → repeat.**
 
-🤖 Currently exploring **AI/ML**, because apparently one area of Computer Science wasn't enough.
+🤖 Exploring **AI/ML**, because apparently one field of Computer Science wasn't enough.
 
 🚀 Most of my projects start with a random idea and a  
-**"let's see if I can actually make this"**.
+**"let's see if I can actually make this."**
 
 ---
 
@@ -30,7 +28,7 @@
 ### Languages
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -51,17 +49,18 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
 ## 🚀 Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🎓 Student Portal
 
-A student-focused web project bringing academic and administrative features together in one place.
+A web-based student portal designed to bring
+academic and administrative features together
+in one place.
 
 **HTML • CSS • JavaScript**
 
@@ -71,17 +70,25 @@ A student-focused web project bringing academic and administrative features toge
 
 ### 🔍 Error Checker
 
-A project developed during my previous semester as part of my coursework.
+A previous-semester project focused on
+**identifying errors and providing feedback**
+during the checking process.
+
+**Academic Project**
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏦 MiniBank
 
-A Java banking application built around **Object-Oriented Programming** and core Java concepts.
+A Java-based banking application being built
+to practice **Object-Oriented Programming**
+and core Java concepts.
 
 **Java • OOP**
 
@@ -89,25 +96,23 @@ A Java banking application built around **Object-Oriented Programming** and core
 
 <td width="50%" valign="top">
 
-### 🛠️ More Projects
+### ✦ More Coming Soon
 
-More experiments, ideas and projects coming as I keep building.
-
-**Work in progress**
+More projects, experiments and questionable
+coding decisions are on the way.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
 ## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 
@@ -119,26 +124,22 @@ More experiments, ideas and projects coming as I keep building.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7F7FD5,50:86A8E7,100:91EAE4"/>
-
 <div align="center">
 
-### Find me here
-
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
