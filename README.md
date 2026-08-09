@@ -12,9 +12,6 @@
 
 ## ✦ About Me
 
-🎓 Studying Computer Science at **CHARUSAT**
-
-💻 I like building things more than talking about building things.
 
 🧩 Currently jumping between web development, Java, Python and whatever
 interesting problem happens to land in front of me.
