@@ -1,98 +1,66 @@
 <div align="center">
 
-#  Hey there , I'm Aadya :)
+# ✦ About Me:
 
-### 💻 Computer Science Student 
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+from+random+ideas;Learning+how+things+work;Exploring+AI%2FML;Breaking+things+and+fixing+them" />
+---
+
+🧩 **I like understanding how things work — and then trying to build my own version of them.**
 
 <br>
 
+💻 **My usual development cycle:**
 
+### `build → break → Google → fix → repeat`
 
-</div>
+<br>
 
----
+🤖 **Exploring AI/ML, because apparently one area of Computer Science wasn't enough.**
 
-## 🧩 About Me
+<br>
 
-> I like understanding how things work — and then trying to build my own version of them.
+🚀 **Most of my projects start with a random idea and a:**
 
-- 🎓 Computer Science student
-- 💻 Interested in software development and problem solving
-- 🤖 Exploring **AI / ML**
-- 🌐 Learning **Web Development**
-- 🧠 Always trying to learn something new
-- 🚀 Most of my projects start with a random idea and:
-
-> *"Let's see if I can actually make this."*
+> *"let's see if I can actually make this."*
 
 ---
-
-## 💻 My Development Cycle
 
 <div align="center">
 
-**BUILD**  
-↓  
-**BREAK**  
-↓  
-**GOOGLE**  
-↓  
-**FIX**  
-↓  
-**REPEAT**
+# 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aadya%20Raval-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aadya-Raval)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/C-0A66C2?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 🤖 Currently Exploring
-
-<p>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge"/>
-</p>
-
----
-
-
-
-## 🚀 Projects
+# 💻 Tech Stack:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true"/>
-</a>
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 </div>
 
 ---
+
+---
+
+<div align="center">
+
+### `code. learn. build. repeat.` 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)
+
+</div>
 
 └──────────────────────────────────────────────┘
 # 📊 GitHub Stats:
