@@ -7,7 +7,7 @@
 </h1>
 
 <h1>
-  <font size="6">BTech Computer Science</font>
+  <font size="6">BTech Computer Science Student </font>
 </h1>
 
 </div>
