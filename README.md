@@ -63,7 +63,7 @@
 
 <p align="left">
 
-<a href="https://github.com/Aadya">
+<a href="https://github.com/25cs089-Aadya">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
