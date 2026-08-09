@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Aadya Raval
+#  Hey there, I'm Aadya 
 
-### `Computer Science Student • Developer • AI/ML Explorer`
+### `Computer Science Student 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+things+I+probably+shouldn't+be+building.;I+break+things+just+to+understand+them.;Exploring+AI%2FML+one+project+at+a+time.;Code.+Learn.+Build.+Repeat.+" alt="Typing Animation"/>
 
