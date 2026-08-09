@@ -16,25 +16,23 @@
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=C8A2C8&center=true&vCenter=true&width=1000&lines=I+build+things+I+probably+shouldn't+be+building.;I+break+things+just+to+understand+them.;Exploring+AI%2FML+one+project+at+a+time.;Code.+Learn.+Build.+Repeat."
   alt="Typing Animation"
 />
-
 # 💫 About Me
 
 <div align="left">
 
-<h3>🧩 I like understanding how things work — and then trying to build my own version of them.</h3>
+<p>🧩 I like understanding how things work — and then trying to build my own version of them.</p>
 
-<h3>💻 My usual development cycle:</h3>
+<p>💻 My usual development cycle:</p>
 
-<h3><code>build → break → Google → fix → repeat</code></h3>
+<p><code>build → break → Google → fix → repeat</code></p>
 
-<h3>🤖 Exploring AI/ML, because apparently one area of Computer Science wasn’t enough.</h3>
+<p>🤖 Exploring AI/ML, because apparently one area of Computer Science wasn’t enough.</p>
 
-<h3>🚀 Most of my projects start with a random idea and a:</h3>
+<p>🚀 Most of my projects start with a random idea and a:</p>
 
-<h3>“let’s see if I can actually make this.”</h3>
+<p>“let’s see if I can actually make this.”</p>
 
 </div>
-
 # 📊 GitHub Stats
 
 <div align="center">
