@@ -2,17 +2,15 @@
 
 <div align="center">
 
-# <span style="font-size: 60px;">Hey there, I'm Aadya :)</span>
+<h1 style="font-size: 52px;">Hey there, I'm Aadya :)</h1>
 
-## <span style="font-size: 36px;">BTech Computer Science Student </span>
+<h2 style="font-size: 32px;">BTech Computer Science</h2>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=C8A2C8&center=true&vCenter=true&width=1000&lines=I+build+things+I+probably+shouldn't+be+building.;I+break+things+just+to+understand+them.;Exploring+AI%2FML+one+project+at+a+time.;Code.+Learn.+Build.+Repeat.+" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=C8A2C8&center=true&vCenter=true&width=1000&lines=I+build+things+I+probably+shouldn't+be+building.;I+break+things+just+to+understand+them.;Exploring+AI%2FML+one+project+at+a+time.;Code.+Learn.+Build.+Repeat." alt="Typing Animation">
 
 </div>
-
----
 
 ## ✨ About Me
 
