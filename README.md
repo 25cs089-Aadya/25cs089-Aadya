@@ -2,13 +2,34 @@
 
 <div align="center">
 
-<h1>Hey there, I'm Aadya :)</h1>
+<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <text
+    x="600"
+    y="90"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="80"
+    font-weight="700"
+    fill="#F0F3F6">
+    Hey there, I'm Aadya :)
+  </text>
 
-<h2>BTech Computer Science</h2>
+  <text
+    x="600"
+    y="175"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="52"
+    font-weight="600"
+    fill="#F0F3F6">
+    BTech Computer Science
+  </text>
+</svg>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=C8A2C8&center=true&vCenter=true&width=1000&lines=I+build+things+I+probably+shouldn't+be+building.;I+break+things+just+to+understand+them.;Exploring+AI%2FML+one+project+at+a+time.;Code.+Learn.+Build.+Repeat." alt="Typing Animation">
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=C8A2C8&center=true&vCenter=true&width=1000&lines=I+build+things+I+probably+shouldn't+be+building.;I+break+things+just+to+understand+them.;Exploring+AI%2FML+one+project+at+a+time.;Code.+Learn.+Build.+Repeat."
+  alt="Typing Animation"
+/>
 
 </div>
 ## ✨ About Me
