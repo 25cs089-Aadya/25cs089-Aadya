@@ -41,17 +41,16 @@ fix
  ↓
 repeat
 
-└──────────────────────────────────────────────┘
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=aadya&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
 
 <img src="https://streak-stats.demolab.com/?user=aadya&theme=tokyonight&hide_border=true" width="48%">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadya&theme=tokyonight&hide_border=true&include_all_commits=false&layout=compact" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadya&theme=tokyonight&hide_border=true&layout=compact" width="48%">
 
 </div>
