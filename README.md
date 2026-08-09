@@ -2,7 +2,7 @@
 
 <div align="center">
 
-#  Hey there, I'm Aadya 
+#  Hey there, I'm Aadya :)
 
 ### `Computer Science Student 
 
