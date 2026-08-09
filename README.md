@@ -17,12 +17,23 @@
   alt="Typing Animation"
 />
 
+# 💫 About Me
+
+<div align="center">
+
+<h2>🧩 I like understanding how things work — and then trying to build my own version of them.</h2>
+
+<h2>💻 My usual development cycle:</h2>
+
+<h1>build → break → Google → fix → repeat</h1>
+
+<h2>🤖 Exploring AI/ML, because apparently one area of Computer Science wasn’t enough.</h2>
+
+<h2>🚀 Most of my projects start with a random idea and a:</h2>
+
+<h1>“let’s see if I can actually make this.”</h1>
+
 </div>
-## ✨ About Me
-
-🧩 **I like understanding how things work — then building my own version of them.**
-
-💻 I learn best by actually making things, breaking them, figuring out why they broke, and fixing them.
 
 
 # 📊 GitHub Stats
