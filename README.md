@@ -20,19 +20,21 @@
 
 <div align="left">
 
-<p>🧩 I like understanding how things work — and then trying to build my own version of them.</p>
+<h4>🧩 I like understanding how things work — and then trying to build my own version of them.</h4>
 
-<p>💻 My usual development cycle:</p>
+<h4>💻 My usual development cycle:</h4>
 
-<p><code>build → break → Google → fix → repeat</code></p>
+<h4><code>build → break → Google → fix → repeat</code></h4>
 
-<p>🤖 Exploring AI/ML, because apparently one area of Computer Science wasn’t enough.</p>
+<h4>🤖 Exploring AI/ML, because apparently one area of Computer Science wasn’t enough.</h4>
 
-<p>🚀 Most of my projects start with a random idea and a:</p>
+<h4>🚀 Most of my projects start with a random idea and a:</h4>
 
-<p>“let’s see if I can actually make this.”</p>
+<h4>“let’s see if I can actually make this.”</h4>
 
 </div>
+
+
 # 📊 GitHub Stats
 
 <div align="center">
